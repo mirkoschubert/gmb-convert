@@ -1,0 +1,461 @@
+[
+  [
+    "name",
+    "email",
+    "website",
+    "rating",
+    "address",
+    "phone",
+    "claimed"
+  ],
+  [
+    "Handwerker München E&E",
+    "",
+    "http://www.handwerkermunchen.de/",
+    "4,8",
+    "Egerlandstraße 2, 85774 München",
+    "089 17102724",
+    "no"
+  ],
+  [
+    "Lampen montieren München Leuchten anschließen Montageservice",
+    "",
+    "http://www.montage-handwerk.de/",
+    "4,9",
+    "Elisabethstraße 42, 80796 München",
+    "089 51110025",
+    "no"
+  ],
+  [
+    "Komplettservice GmbH - Renovierung & Sanierung",
+    "",
+    "http://www.komplettservice.de/",
+    "4,1",
+    "Landshuter Allee 8 - 10, 80637 München",
+    "089 34020620",
+    "no"
+  ],
+  [
+    "Handwerker MÜNCHEN",
+    "",
+    "https://www.muenchen.de/rathaus/wirtschaft/branchen/handwerk.html",
+    "",
+    "Marienplatz",
+    "",
+    ""
+  ],
+  [
+    "Renovierung, Bausanierung München / BAU089",
+    "",
+    "http://www.bau089.de/",
+    "5,0",
+    "Südparkallee 17, 81379 München",
+    "089 24290040",
+    "no"
+  ],
+  [
+    "Wohnungsausbau-Innenausbau München Altbausanierung",
+    "",
+    "http://wohnungsausbau-muenchen.de/",
+    "5,0",
+    "Blumenstraße 15, 80331 München",
+    "089 57849063",
+    "no"
+  ],
+  [
+    "Notdienst24 Handwerker München",
+    "",
+    "https://web2.cylex.de/firma-home/notdienst24-handwerker-muenchen-14118217.html",
+    "",
+    "Landsberger Str. 18",
+    "",
+    ""
+  ],
+  [
+    "HANDWERKER Olivier",
+    "",
+    "false",
+    "5,0",
+    "",
+    "0179 1728466",
+    "no"
+  ],
+  [
+    "Handwerkerservice ET",
+    "",
+    "false",
+    "false",
+    "Feldmochinger Str. 212, 80995 München",
+    "0176 47644646",
+    "no"
+  ],
+  [
+    "BIHZ - Bayerische Immobilien- und Handwerkerzentrale",
+    "",
+    "http://bihz.de/",
+    "3,4",
+    "Goethestraße 5, 80336 München",
+    "089 122232922",
+    "no"
+  ],
+  [
+    "JE-Renovierung-München",
+    "",
+    "http://www.renovierung-eckert.de/",
+    "false",
+    "Lindwurmstraße 112, 80337 München",
+    "0176 64849124",
+    "no"
+  ],
+  [
+    "HSH Home Service Haberland | Handwerker München",
+    "",
+    "https://hsh-homeservice.de/",
+    "5,0",
+    "Höslstraße 17, 81927 München",
+    "089 96978962",
+    "no"
+  ],
+  [
+    "Jannis Renovierungsarbeiten",
+    "",
+    "http://www.jannis-renovierungsarbeiten.de/",
+    "1,0",
+    "Balanstraße 29, 81669 München",
+    "0173 3866027",
+    "no"
+  ],
+  [
+    "Der gepflegte Handwerker GmbH",
+    "",
+    "http://www.parkettdienst.de/",
+    "4,7",
+    "Herbergstraße 10, 80995 München",
+    "089 35747062",
+    "no"
+  ],
+  [
+    "artmann-Dienstleistungen",
+    "",
+    "http://www.artmann-dienstleistungen.de/",
+    "5,0",
+    "Tal 44, 80331 München",
+    "0176 76860913",
+    "no"
+  ],
+  [
+    "Chris, Der Handwerker",
+    "",
+    "https://www.blauarbeit.de/p/haushaltshilfe/muenchen/christian_herweg/1490921.htm",
+    "false",
+    "Neubiberger Str. 4, 81737 München",
+    "0176 62070304",
+    "no"
+  ],
+  [
+    "Augustin Möbelmontage-Möbelaufbau und Allround Handwerk im Raum München",
+    "",
+    "http://www.augustin-montage.de/",
+    "5,0",
+    "Nördliche Auffahrtsallee 32, 80638 München",
+    "0176 81464378",
+    "no"
+  ],
+  [
+    "JAG-Handwerk",
+    "",
+    "false",
+    "1,0",
+    "",
+    "089 54899029",
+    "no"
+  ],
+  [
+    "Renovierungsservice München Ost",
+    "",
+    "http://renovierungmuc.de/",
+    "false",
+    "",
+    "0176 81273511",
+    "no"
+  ],
+  [
+    "Handwerker MÜNCHEN",
+    "",
+    "https://www.muenchen.de/rathaus/wirtschaft/branchen/handwerk.html",
+    "",
+    "Marienplatz",
+    "",
+    ""
+  ],
+  [
+    "Augustin Möbelmontage-Möbelaufbau und Allround Handwerk im Raum München",
+    "",
+    "http://www.augustin-montage.de/",
+    "5,0",
+    "Nördliche Auffahrtsallee 32, 80638 München",
+    "0176 81464378",
+    "no"
+  ],
+  [
+    "Dienstleistungen Kneitel",
+    "",
+    "false",
+    "2,3",
+    "Albert-Roßhaupter-Straße 61, 81369 München",
+    "0173 3562636",
+    "no"
+  ],
+  [
+    "Marcel Keller",
+    "",
+    "https://www.marcelkeller-renovierung.de/",
+    "5,0",
+    "Ursberger Str. 16, 81673 München",
+    "0176 96366111",
+    "no"
+  ],
+  [
+    "Der gepflegte Handwerker GmbH",
+    "",
+    "http://www.parkettdienst.de/",
+    "4,7",
+    "Herbergstraße 10, 80995 München",
+    "089 35747062",
+    "no"
+  ],
+  [
+    "MHD Service e.K. Münchner Handwerker & Dienstleistungs Service",
+    "",
+    "http://mhd-service.de/",
+    "false",
+    "Sonthofener Str. 6 a, 81475 München",
+    "0176 20349054",
+    "no"
+  ],
+  [
+    "WORKMAN HANDWERKER",
+    "",
+    "false",
+    "false",
+    "Heidemannstraße 11b, 80939 München",
+    "0176 21777943",
+    "no"
+  ],
+  [
+    "Installateur München",
+    "",
+    "https://installateur-muenchen-schwabing.de/",
+    "4,6",
+    "Agnes-Bernauer-Straße 69, 80687 München",
+    "089 24212423",
+    "no"
+  ],
+  [
+    "Installateur Lehel",
+    "",
+    "https://installateur-lehel.de/",
+    "4,6",
+    "Maximilianstraße 13, 80539 München",
+    "089 21543786",
+    "no"
+  ],
+  [
+    "Installateur Lehel",
+    "",
+    "https://installateur-lehel.de/",
+    "4,1",
+    "Thierschstraße 49, 80538 München",
+    "089 21543786",
+    "no"
+  ],
+  [
+    "Persch Badsanierung",
+    "",
+    "false",
+    "2,3",
+    "Kirchseeoner Str. 1, 81667 München",
+    "01578 7846971",
+    "no"
+  ],
+  [
+    "S' Parkettmandl",
+    "",
+    "https://www.ihr-handwerker-ums-eck.de/",
+    "false",
+    "Thierschstraße 14, 80538 München",
+    "false",
+    "no"
+  ],
+  [
+    "Schnell Gut & Günstig Renovierung GmbH",
+    "",
+    "http://www.sgg-bau.de/",
+    "4,5",
+    "Landsberger Str. 249, 80687 München",
+    "089 99931577",
+    "no"
+  ],
+  [
+    "Stani der Handwerker",
+    "",
+    "false",
+    "false",
+    "Schmalkaldener Str. 10, 80807 München",
+    "089 3508753",
+    "no"
+  ],
+  [
+    "Renovierungsservice München Ost",
+    "",
+    "http://renovierungmuc.de/",
+    "false",
+    "",
+    "0176 81273511",
+    "no"
+  ],
+  [
+    "Tommy Handwerker",
+    "",
+    "http://www.tommy-handwerker.de/",
+    "5,0",
+    "",
+    "0172 9196076",
+    "no"
+  ],
+  [
+    "Freissle & Sohn GmbH",
+    "",
+    "http://www.freissleundsohn.de/",
+    "4,5",
+    "Freystraße 1, 80802 München",
+    "089 997437220",
+    "no"
+  ],
+  [
+    "Büro-Organisation für Handwerker",
+    "",
+    "http://www.italiaander.de/",
+    "false",
+    "",
+    "01514 2366861",
+    "no"
+  ],
+  [
+    "Renovierung München Nepelski, Sanierung, Trockenbau",
+    "",
+    "https://renovierung-sanierung-muenchen-nepelski.de/",
+    "5,0",
+    "Mariahilfstraße 22, 81541 München",
+    "0176 51182873",
+    "no"
+  ],
+  [
+    "Albert Meisterbetrieb GmbH",
+    "",
+    "false",
+    "false",
+    "Holzstraße 12, 80469 München",
+    "false",
+    "no"
+  ],
+  [
+    "Ingo Weber Zementwerkstatt GmbH",
+    "",
+    "http://www.zement-werkstatt.de/",
+    "3,9",
+    "Volkartstraße 19, 80634 München",
+    "089 37418828",
+    "no"
+  ],
+  [
+    "Handwerker-Bodnar.de",
+    "",
+    "https://www.dasoertliche.de/Themen/Adlzreiterstra%C3%9Fe/M%C3%BCnchen.htm",
+    "",
+    "Adlzreiterstraße 5",
+    "",
+    ""
+  ],
+  [
+    "BTI Handwerker-Center München",
+    "",
+    "https://www.bti.de/shop-de/hwc/muenchen",
+    "4,7",
+    "Schleißheimer Str. 92, 85748 Garching bei München",
+    "089 3270800",
+    "no"
+  ],
+  [
+    "Bildungszentrum München der Handwerkskammer für München und Oberbayern",
+    "",
+    "http://www.hwk-muenchen-bildung.de/muenchen",
+    "false",
+    "Mühldorfstraße 6, 81671 München",
+    "089 450981700",
+    "no"
+  ],
+  [
+    "Handwerker Service München",
+    "",
+    "http://www.handwerker-service-muenchen.de/",
+    "",
+    "Hauptstraße 32",
+    "",
+    ""
+  ],
+  [
+    "Schreinerei Rehrl Joachim",
+    "",
+    "https://www.schreinerei-rehrl.de/",
+    "2,3",
+    "Theresienstraße 77, 80333 München",
+    "089 35732869",
+    "no"
+  ],
+  [
+    "Hausmeister Berisha",
+    "",
+    "https://www.my-hammer.de/firma/handwerker-und-hausmeister-berisha-muenchen/",
+    "false",
+    "Eversbuschstraße 169a, 80999 München",
+    "0176 65599640",
+    "no"
+  ],
+  [
+    "Altbausanierung München Umbau-Trockenbau-Bodenverlegung",
+    "",
+    "http://www.sanierung-in-muenchen.de/",
+    "5,0",
+    "Blumenstraße 15, 80331 München",
+    "089 43738392",
+    "no"
+  ],
+  [
+    "Ihr Münchner Heinzelmann - (P.-A. Huhn)",
+    "",
+    "https://ihr-heinzelmann.business.site/?utm_source=gmb&utm_medium=referral",
+    "5,0",
+    "",
+    "0163 4873195",
+    "no"
+  ],
+  [
+    "Piotr Marek Innen- und Sanierungsbau",
+    "",
+    "http://www.marek-trockenbau.de/",
+    "2,0",
+    "Landsberger Str. 104, 80339 München",
+    "0162 3617726",
+    "no"
+  ],
+  [
+    "HGS - Oliver Deuerling",
+    "",
+    "false",
+    "5,0",
+    "",
+    "089 33099000",
+    "no"
+  ]
+]

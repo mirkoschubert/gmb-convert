@@ -1,0 +1,537 @@
+[
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Handwerker+M%C3%BCnchen+E%26E/data=!4m5!3m4!1s0x479e7494300009e7:0x720ab8b639fb0923!8m2!3d48.1922569!4d11.6463586?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Handwerker München E&E",
+    "address": "Egerlandstraße 2, 85774 München",
+    "rating": "4,8",
+    "website": "http://www.handwerkermunchen.de/",
+    "phone": "089 17102724",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Lampen+montieren+M%C3%BCnchen+Leuchten+anschlie%C3%9Fen+Montageservice/data=!4m5!3m4!1s0x479e75495583bee3:0x1ea58df79fd9d28e!8m2!3d48.1594692!4d11.5672826?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Lampen montieren München Leuchten anschließen Montageservice",
+    "address": "Elisabethstraße 42, 80796 München",
+    "rating": "4,9",
+    "website": "http://www.montage-handwerk.de/",
+    "phone": "089 51110025",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Komplettservice+GmbH+-+Renovierung+%26+Sanierung/data=!4m5!3m4!1s0x479e7613d9cd2c3d:0x8c79c7f87346575a!8m2!3d48.1476605!4d11.5373632?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Komplettservice GmbH - Renovierung & Sanierung",
+    "address": "Landshuter Allee 8 - 10, 80637 München",
+    "rating": "4,1",
+    "website": "http://www.komplettservice.de/",
+    "phone": "089 34020620",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Handwerker+M%C3%9CNCHEN/data=!4m5!3m4!1s0x479e75e6294559e1:0x57409c0678d46a7!8m2!3d48.1333139!4d11.5689944?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Handwerker MÜNCHEN",
+    "address": "Marienplatz",
+    "website": "https://www.muenchen.de/rathaus/wirtschaft/branchen/handwerk.html"
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Renovierung,+Bausanierung+M%C3%BCnchen+%2F+BAU089/data=!4m5!3m4!1s0x479dd98f7999c8f3:0x79dbdea1cdc4794d!8m2!3d48.1083287!4d11.51404?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Renovierung, Bausanierung München / BAU089",
+    "address": "Südparkallee 17, 81379 München",
+    "rating": "5,0",
+    "website": "http://www.bau089.de/",
+    "phone": "089 24290040",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Wohnungsausbau-Innenausbau+M%C3%BCnchen+Altbausanierung/data=!4m5!3m4!1s0x479de1e92f80365f:0x4787bd51c78b2624!8m2!3d48.1329231!4d11.5731343?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Wohnungsausbau-Innenausbau München Altbausanierung",
+    "address": "Blumenstraße 15, 80331 München",
+    "rating": "5,0",
+    "website": "http://wohnungsausbau-muenchen.de/",
+    "phone": "089 57849063",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Notdienst24+Handwerker+M%C3%BCnchen/data=!4m5!3m4!1s0x479e774f6dd88a27:0x255910cf384229ae!8m2!3d48.139545!4d11.545555?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Notdienst24 Handwerker München",
+    "address": "Landsberger Str. 18",
+    "website": "https://web2.cylex.de/firma-home/notdienst24-handwerker-muenchen-14118217.html"
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/HANDWERKER+Olivier/data=!4m5!3m4!1s0x479dd8c45a1d7b65:0x8b3dac28e50f5c56!8m2!3d48.1110974!4d11.5300975?authuser=0&hl=de&rclk=1"
+    },
+    "name": "HANDWERKER Olivier",
+    "address": "",
+    "rating": "5,0",
+    "website": false,
+    "phone": "0179 1728466",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Handwerkerservice+ET/data=!4m5!3m4!1s0x479e76e16c9987bf:0xccd0c6d04e164fa3!8m2!3d48.196225!4d11.5244533?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Handwerkerservice ET",
+    "address": "Feldmochinger Str. 212, 80995 München",
+    "rating": false,
+    "website": false,
+    "phone": "0176 47644646",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/BIHZ+-+Bayerische+Immobilien-+und+Handwerkerzentrale/data=!4m5!3m4!1s0x479e75f9d2a517a9:0x76756bf5dad75fa0!8m2!3d48.1385407!4d11.5588726?authuser=0&hl=de&rclk=1"
+    },
+    "name": "BIHZ - Bayerische Immobilien- und Handwerkerzentrale",
+    "address": "Goethestraße 5, 80336 München",
+    "rating": "3,4",
+    "website": "http://bihz.de/",
+    "phone": "089 122232922",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/JE-Renovierung-M%C3%BCnchen/data=!4m5!3m4!1s0x479ddecf046ce127:0x61237eece97cc081!8m2!3d48.1227833!4d11.5451412?authuser=0&hl=de&rclk=1"
+    },
+    "name": "JE-Renovierung-München",
+    "address": "Lindwurmstraße 112, 80337 München",
+    "rating": false,
+    "website": "http://www.renovierung-eckert.de/",
+    "phone": "0176 64849124",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/HSH+Home+Service+Haberland+%7C+Handwerker+M%C3%BCnchen/data=!4m5!3m4!1s0x479e75d4ea0b45bb:0xbaafd1a26a19a88f!8m2!3d48.1508876!4d11.6328995?authuser=0&hl=de&rclk=1"
+    },
+    "name": "HSH Home Service Haberland | Handwerker München",
+    "address": "Höslstraße 17, 81927 München",
+    "rating": "5,0",
+    "website": "https://hsh-homeservice.de/",
+    "phone": "089 96978962",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Jannis+Renovierungsarbeiten/data=!4m5!3m4!1s0x479ddf7890f06215:0x2849debb83d3631!8m2!3d48.1259001!4d11.5956748?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Jannis Renovierungsarbeiten",
+    "address": "Balanstraße 29, 81669 München",
+    "rating": "1,0",
+    "website": "http://www.jannis-renovierungsarbeiten.de/",
+    "phone": "0173 3866027",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Der+gepflegte+Handwerker+GmbH/data=!4m5!3m4!1s0x479e76d4fe5a7751:0xd777bca8d51e8440!8m2!3d48.2173488!4d11.5319539?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Der gepflegte Handwerker GmbH",
+    "address": "Herbergstraße 10, 80995 München",
+    "rating": "4,7",
+    "website": "http://www.parkettdienst.de/",
+    "phone": "089 35747062",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/artmann-Dienstleistungen/data=!4m5!3m4!1s0x479e75df240e7f2f:0xe8c84efceeee7fb7!8m2!3d48.1352837!4d11.5811203?authuser=0&hl=de&rclk=1"
+    },
+    "name": "artmann-Dienstleistungen",
+    "address": "Tal 44, 80331 München",
+    "rating": "5,0",
+    "website": "http://www.artmann-dienstleistungen.de/",
+    "phone": "0176 76860913",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Chris,+Der+Handwerker/data=!4m5!3m4!1s0x479ddf690a149faf:0xff3c43d80e6e26be!8m2!3d48.0991482!4d11.6308688?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Chris, Der Handwerker",
+    "address": "Neubiberger Str. 4, 81737 München",
+    "rating": false,
+    "website": "https://www.blauarbeit.de/p/haushaltshilfe/muenchen/christian_herweg/1490921.htm",
+    "phone": "0176 62070304",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Augustin+M%C3%B6belmontage-M%C3%B6belaufbau+und+Allround+Handwerk+im+Raum+M%C3%BCnchen/data=!4m5!3m4!1s0x479e777bafc042b7:0x31726b1a889da2c2!8m2!3d48.15938!4d11.52095?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Augustin Möbelmontage-Möbelaufbau und Allround Handwerk im Raum München",
+    "address": "Nördliche Auffahrtsallee 32, 80638 München",
+    "rating": "5,0",
+    "website": "http://www.augustin-montage.de/",
+    "phone": "0176 81464378",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/JAG-Handwerk/data=!4m5!3m4!1s0x479e766db73349f9:0xf75f036070bcd65d!8m2!3d48.6081371!4d11.371461?authuser=0&hl=de&rclk=1"
+    },
+    "name": "JAG-Handwerk",
+    "address": "",
+    "rating": "1,0",
+    "website": false,
+    "phone": "089 54899029",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Renovierungsservice+M%C3%BCnchen+Ost/data=!4m5!3m4!1s0x479ddfb98962996d:0x8f32a9d0950a282!8m2!3d48.9174128!4d11.4079512?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Renovierungsservice München Ost",
+    "address": "",
+    "rating": false,
+    "website": "http://renovierungmuc.de/",
+    "phone": "0176 81273511",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Handwerker+M%C3%9CNCHEN/data=!4m5!3m4!1s0x479e75e6294559e1:0x57409c0678d46a7!8m2!3d48.1333139!4d11.5689944?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Handwerker MÜNCHEN",
+    "address": "Marienplatz",
+    "website": "https://www.muenchen.de/rathaus/wirtschaft/branchen/handwerk.html"
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Augustin+M%C3%B6belmontage-M%C3%B6belaufbau+und+Allround+Handwerk+im+Raum+M%C3%BCnchen/data=!4m5!3m4!1s0x479e777bafc042b7:0x31726b1a889da2c2!8m2!3d48.15938!4d11.52095?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Augustin Möbelmontage-Möbelaufbau und Allround Handwerk im Raum München",
+    "address": "Nördliche Auffahrtsallee 32, 80638 München",
+    "rating": "5,0",
+    "website": "http://www.augustin-montage.de/",
+    "phone": "0176 81464378",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Dienstleistungen+Kneitel/data=!4m5!3m4!1s0x479dd8c88ca55939:0xf0e56ebe9f3c3b66!8m2!3d48.1164729!4d11.5285063?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Dienstleistungen Kneitel",
+    "address": "Albert-Roßhaupter-Straße 61, 81369 München",
+    "rating": "2,3",
+    "website": false,
+    "phone": "0173 3562636",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Marcel+Keller/data=!4m5!3m4!1s0x479e755673e76d77:0x98a70d96afeebc17!8m2!3d48.1293151!4d11.6436476?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Marcel Keller",
+    "address": "Ursberger Str. 16, 81673 München",
+    "rating": "5,0",
+    "website": "https://www.marcelkeller-renovierung.de/",
+    "phone": "0176 96366111",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Der+gepflegte+Handwerker+GmbH/data=!4m5!3m4!1s0x479e76d4fe5a7751:0xd777bca8d51e8440!8m2!3d48.2173488!4d11.5319539?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Der gepflegte Handwerker GmbH",
+    "address": "Herbergstraße 10, 80995 München",
+    "rating": "4,7",
+    "website": "http://www.parkettdienst.de/",
+    "phone": "089 35747062",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/MHD+Service+e.K.+M%C3%BCnchner+Handwerker+%26+Dienstleistungs+Service/data=!4m5!3m4!1s0x479dd96deae646ff:0xb5b61f5a81c6f8b4!8m2!3d48.07946!4d11.48694?authuser=0&hl=de&rclk=1"
+    },
+    "name": "MHD Service e.K. Münchner Handwerker & Dienstleistungs Service",
+    "address": "Sonthofener Str. 6 a, 81475 München",
+    "rating": false,
+    "website": "http://mhd-service.de/",
+    "phone": "0176 20349054",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/WORKMAN+HANDWERKER/data=!4m5!3m4!1s0x479e752d12efabbb:0x8bd568eaf40fc64e!8m2!3d48.20263!4d11.58851?authuser=0&hl=de&rclk=1"
+    },
+    "name": "WORKMAN HANDWERKER",
+    "address": "Heidemannstraße 11b, 80939 München",
+    "rating": false,
+    "website": false,
+    "phone": "0176 21777943",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Installateur+M%C3%BCnchen/data=!4m5!3m4!1s0x479dd961eb5c70d3:0x23839ca5c5992a1e!8m2!3d48.1394319!4d11.5051161?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Installateur München",
+    "address": "Agnes-Bernauer-Straße 69, 80687 München",
+    "rating": "4,6",
+    "website": "https://installateur-muenchen-schwabing.de/",
+    "phone": "089 24212423",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Installateur+Lehel/data=!4m5!3m4!1s0x479e75f1808d3797:0xd973110361139655!8m2!3d48.1388906!4d11.580228?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Installateur Lehel",
+    "address": "Maximilianstraße 13, 80539 München",
+    "rating": "4,6",
+    "website": "https://installateur-lehel.de/",
+    "phone": "089 21543786",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Installateur+Lehel/data=!4m5!3m4!1s0x479e75067c39aef1:0x29af0323b28b40bf!8m2!3d48.1389843!4d11.5885057?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Installateur Lehel",
+    "address": "Thierschstraße 49, 80538 München",
+    "rating": "4,1",
+    "website": "https://installateur-lehel.de/",
+    "phone": "089 21543786",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Persch+Badsanierung/data=!4m5!3m4!1s0x479ddf93fa61bf59:0xb4253f0f74b08fac!8m2!3d48.11622!4d11.61316?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Persch Badsanierung",
+    "address": "Kirchseeoner Str. 1, 81667 München",
+    "rating": "2,3",
+    "website": false,
+    "phone": "01578 7846971",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/S'+Parkettmandl/data=!4m5!3m4!1s0x479e758823ffa649:0xb833c8547029823!8m2!3d48.1342148!4d11.5846934?authuser=0&hl=de&rclk=1"
+    },
+    "name": "S' Parkettmandl",
+    "address": "Thierschstraße 14, 80538 München",
+    "rating": false,
+    "website": "https://www.ihr-handwerker-ums-eck.de/",
+    "phone": false,
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Schnell+Gut+%26+G%C3%BCnstig+Renovierung+GmbH/data=!4m5!3m4!1s0x479e77237b91f435:0x790ab938ff46adaa!8m2!3d48.14172!4d11.5124779?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Schnell Gut & Günstig Renovierung GmbH",
+    "address": "Landsberger Str. 249, 80687 München",
+    "rating": "4,5",
+    "website": "http://www.sgg-bau.de/",
+    "phone": "089 99931577",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Stani+der+Handwerker/data=!4m5!3m4!1s0x479e7425c8445a3d:0x55cbc169795acd36!8m2!3d48.1868563!4d11.5771393?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Stani der Handwerker",
+    "address": "Schmalkaldener Str. 10, 80807 München",
+    "rating": false,
+    "website": false,
+    "phone": "089 3508753",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Renovierungsservice+M%C3%BCnchen+Ost/data=!4m5!3m4!1s0x479ddfb98962996d:0x8f32a9d0950a282!8m2!3d48.9174128!4d11.4079512?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Renovierungsservice München Ost",
+    "address": "",
+    "rating": false,
+    "website": "http://renovierungmuc.de/",
+    "phone": "0176 81273511",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Tommy+Handwerker/data=!4m5!3m4!1s0x479e7392aa655df7:0x4b3d7a0ff65783a3!8m2!3d48.2647856!4d11.6826931?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Tommy Handwerker",
+    "address": "",
+    "rating": "5,0",
+    "website": "http://www.tommy-handwerker.de/",
+    "phone": "0172 9196076",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Freissle+%26+Sohn+GmbH/data=!4m5!3m4!1s0x479e754ff90f2341:0x7ef1ba9297413600!8m2!3d48.16461!4d11.58905?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Freissle & Sohn GmbH",
+    "address": "Freystraße 1, 80802 München",
+    "rating": "4,5",
+    "website": "http://www.freissleundsohn.de/",
+    "phone": "089 997437220",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/B%C3%BCro-Organisation+f%C3%BCr+Handwerker/data=!4m5!3m4!1s0x479ddf9d27c6cd7f:0x8b64e622ed6e25ff!8m2!3d48.1549108!4d11.5418357?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Büro-Organisation für Handwerker",
+    "address": "",
+    "rating": false,
+    "website": "http://www.italiaander.de/",
+    "phone": "01514 2366861",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Renovierung+M%C3%BCnchen+Nepelski,+Sanierung,+Trockenbau/data=!4m5!3m4!1s0x479ddf652270bb5f:0x814d8075f10f7bef!8m2!3d48.1260569!4d11.5819169?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Renovierung München Nepelski, Sanierung, Trockenbau",
+    "address": "Mariahilfstraße 22, 81541 München",
+    "rating": "5,0",
+    "website": "https://renovierung-sanierung-muenchen-nepelski.de/",
+    "phone": "0176 51182873",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Albert+Meisterbetrieb+GmbH/data=!4m5!3m4!1s0x479ddf5c28899a63:0xdfa905fff681954!8m2!3d48.1302823!4d11.5680324?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Albert Meisterbetrieb GmbH",
+    "address": "Holzstraße 12, 80469 München",
+    "rating": false,
+    "website": false,
+    "phone": false,
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Ingo+Weber+Zementwerkstatt+GmbH/data=!4m5!3m4!1s0x479ddf858d5c2dff:0x46cc1a57c6f851be!8m2!3d48.15512!4d11.53436?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Ingo Weber Zementwerkstatt GmbH",
+    "address": "Volkartstraße 19, 80634 München",
+    "rating": "3,9",
+    "website": "http://www.zement-werkstatt.de/",
+    "phone": "089 37418828",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Handwerker-Bodnar.de/data=!4m5!3m4!1s0x479ddf503d8825af:0x3917a186330a318f!8m2!3d48.1274068!4d11.556067?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Handwerker-Bodnar.de",
+    "address": "Adlzreiterstraße 5",
+    "website": "https://www.dasoertliche.de/Themen/Adlzreiterstra%C3%9Fe/M%C3%BCnchen.htm"
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/BTI+Handwerker-Center+M%C3%BCnchen/data=!4m5!3m4!1s0x479e73b54f8930cf:0xbaf5029d24f72d3f!8m2!3d48.250387!4d11.62263?authuser=0&hl=de&rclk=1"
+    },
+    "name": "BTI Handwerker-Center München",
+    "address": "Schleißheimer Str. 92, 85748 Garching bei München",
+    "rating": "4,7",
+    "website": "https://www.bti.de/shop-de/hwc/muenchen",
+    "phone": "089 3270800",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Bildungszentrum+M%C3%BCnchen+der+Handwerkskammer+f%C3%BCr+M%C3%BCnchen+und+Oberbayern/data=!4m5!3m4!1s0x479ddf87cd4a0043:0x1acdffefbcc2c0f8!8m2!3d48.1284893!4d11.6102792?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Bildungszentrum München der Handwerkskammer für München und Oberbayern",
+    "address": "Mühldorfstraße 6, 81671 München",
+    "rating": false,
+    "website": "http://www.hwk-muenchen-bildung.de/muenchen",
+    "phone": "089 450981700",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Handwerker+Service+M%C3%BCnchen/data=!4m5!3m4!1s0x479e7fbf55d2a991:0xf07e568d9be9fd31!8m2!3d48.1831649!4d11.270452?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Handwerker Service München",
+    "address": "Hauptstraße 32",
+    "website": "http://www.handwerker-service-muenchen.de/"
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Schreinerei+Rehrl+Joachim/data=!4m5!3m4!1s0x479e75e3f00c7911:0xb2ace87ad088cebb!8m2!3d48.1515463!4d11.5622434?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Schreinerei Rehrl Joachim",
+    "address": "Theresienstraße 77, 80333 München",
+    "rating": "2,3",
+    "website": "https://www.schreinerei-rehrl.de/",
+    "phone": "089 35732869",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Hausmeister+Berisha/data=!4m5!3m4!1s0x479e79da8ba81ed9:0x6493f5a4de23084c!8m2!3d48.1980285!4d11.4579771?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Hausmeister Berisha",
+    "address": "Eversbuschstraße 169a, 80999 München",
+    "rating": false,
+    "website": "https://www.my-hammer.de/firma/handwerker-und-hausmeister-berisha-muenchen/",
+    "phone": "0176 65599640",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Altbausanierung+M%C3%BCnchen+Umbau-Trockenbau-Bodenverlegung/data=!4m5!3m4!1s0x479ddf85c51aa555:0xa054baf088096766!8m2!3d48.1329231!4d11.5731343?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Altbausanierung München Umbau-Trockenbau-Bodenverlegung",
+    "address": "Blumenstraße 15, 80331 München",
+    "rating": "5,0",
+    "website": "http://www.sanierung-in-muenchen.de/",
+    "phone": "089 43738392",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Ihr+M%C3%BCnchner+Heinzelmann+-+(P.-A.+Huhn)/data=!4m5!3m4!1s0x479e7609426f786d:0x994a4b598fe5f1e!8m2!3d48.1549108!4d11.5418357?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Ihr Münchner Heinzelmann - (P.-A. Huhn)",
+    "address": "",
+    "rating": "5,0",
+    "website": "https://ihr-heinzelmann.business.site/?utm_source=gmb&utm_medium=referral",
+    "phone": "0163 4873195",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/Piotr+Marek+Innen-+und+Sanierungsbau/data=!4m5!3m4!1s0x479e77c2b1f62f79:0x957efcf9ef4c893e!8m2!3d48.1401582!4d11.5365864?authuser=0&hl=de&rclk=1"
+    },
+    "name": "Piotr Marek Innen- und Sanierungsbau",
+    "address": "Landsberger Str. 104, 80339 München",
+    "rating": "2,0",
+    "website": "http://www.marek-trockenbau.de/",
+    "phone": "0162 3617726",
+    "claimed": false
+  },
+  {
+    "urls": {
+      "gmaps": "https://www.google.com/maps/place/HGS+-+Oliver+Deuerling/data=!4m5!3m4!1s0x479ddf4b497e23bf:0x709e317dacf17211!8m2!3d48.9174128!4d11.4079512?authuser=0&hl=de&rclk=1"
+    },
+    "name": "HGS - Oliver Deuerling",
+    "address": "",
+    "rating": "5,0",
+    "website": false,
+    "phone": "089 33099000",
+    "claimed": false
+  }
+]
